@@ -1,0 +1,13 @@
+{
+  "packageName": "PostCodeControl",
+  "description": "The control which allows to input postcode in format that is used in Poland",
+  "solutionId": "d79ea270-ea7e-11ed-aaee-237cb788fc84",
+  "files": {
+    "component": "./src/CustomControlComponent.js",
+    "emptyValueValidator": "./src/EmptyValueValidator.js",
+    "additionalValidator": "./src/AdditionalValidator.js",
+    "assets": {
+      "clear": "./src/assets/clear.png"
+    }
+  }
+}
